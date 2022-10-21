@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee907362-2a7c-4cce-84e4-f0e57ed78250" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/objectBasics/fr/m2i/formation/domain/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/objectBasics/fr/m2i/formation/models/Earth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/objectBasics/fr/m2i/formation/models/Personnage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/objectBasics/fr/m2i/formation/utils/OpeMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/listeChainee/domain/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/listeChainee/models/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/listeChainee/models/MaListeChainee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/inheritance/domain/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/composeTeams/domain/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/perfectGame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/perfectGame/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/listeChainee/domain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/listeChainee/domain/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -33,9 +33,13 @@ public class Main {
 
         System.out.println("Printage de la liste: ");
         maListe.printList();
+        System.out.println();
+        System.out.println("Affiche du précédent et suivant de l'index " + (maListe.size()-1));
         maListe.printNextAndPrevious(maListe.size()-1);
 
         maListe.printList();
+        System.out.println();
+        System.out.println("Affiche du précédent et suivant de l'index 3");
         maListe.printNextAndPrevious(3);
 
 
