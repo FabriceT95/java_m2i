@@ -18,8 +18,8 @@ public class Main {
         personnes.add("BAPTISTE");
 
         do {
-            int rand1 = (int) Math.floor(Math.random() * (personnes.size()));
-            int rand2 = (int) Math.floor(Math.random() * (personnes.size()));
+            int rand1 = (int) Math.floor(Math.random() * personnes.size());
+            int rand2 = (int) Math.floor(Math.random() * personnes.size());
             if(rand2 == rand1) {
                 continue;
             }

@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="java_m2i:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ee907362-2a7c-4cce-84e4-f0e57ed78250" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics/inheritance/domain/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/composeTeams/domain/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/java_m2i_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/abstracts/domain/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/abstracts/models/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/abstracts/models/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/abstracts/models/Chien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/abstracts/models/Guerrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/abstracts/models/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/inheritance/models/exo1/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/inheritance/models/exo1/PointA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/inheritance/models/exo2/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/inheritance/models/exo2/PointNom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/inheritance/models/exo3/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/inheritance/models/exo3/PointNom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/inheritance/models/exo4/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/inheritance/models/exo4/PointNom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/inheritance/models/exo5/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/inheritance/models/exo5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/inheritance/models/exo6/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/inheritance/models/exo6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/LOTR/domain/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/LOTR/models/Attaquant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/LOTR/models/Elf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/LOTR/models/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/LOTR/models/Orc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/LOTR/models/Personnage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/LOTR/models/Soigneur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/LOTR/models/Versus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projects/listeChainee/domain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/listeChainee/domain/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/inheritance/domain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/inheritance/domain/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/composeTeams/domain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/composeTeams/domain/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +46,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -36,6 +68,9 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
 }</component>
